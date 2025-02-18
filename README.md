@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/SiddTheCoder/siddthecoder-readme/blob/main/channels4_banner.jpg)
 <h1 align="center">Yo 👋, I'm Siddhant Yadav</h1>
 <h3 align="center">A wanted versatile developer from Nepal</h3>
 
