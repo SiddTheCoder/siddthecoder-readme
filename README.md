@@ -3,7 +3,7 @@
 <h1 align="center">Yo 👋, I'm Siddhant Yadav</h1>
 <h3 align="center">A versatile and in-demand developer from Nepal</h3>
 
-🎥 Watch my intro video: [SiddYCoddy Academy Intro](https://www.siddhantyadav.com.np/asset/video/SiddYCoddy-Academy%20Intro.mp4)
+
 
 - 👨‍💻 All of my projects are available at [https://www.siddhantyadav.com.np/](https://www.siddhantyadav.com.np/)
 - 📫 How to reach me **siddthecoder@gmail.com**
