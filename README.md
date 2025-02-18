@@ -1,7 +1,6 @@
+![logo]()
 <h1 align="center">Yo 👋, I'm Siddhant Yadav</h1>
 <h3 align="center">A wanted versatile developer from Nepal</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="siddthecoder" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.siddhantyadav.com.np/](https://www.siddhantyadav.com.np/)
 
